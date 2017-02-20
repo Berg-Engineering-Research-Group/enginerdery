@@ -29,4 +29,4 @@ paginate: 3
 
 highlighter: rouge
 
-exclude: ['README.md', 'LICENSE']
+exclude: ['README.md', 'LICENSE', 'post-template.md']
