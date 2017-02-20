@@ -30,4 +30,3 @@ paginate: 3
 highlighter: rouge
 
 exclude: ['README.md', 'LICENSE']
-theme: jekyll-theme-dinky
