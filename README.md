@@ -4,7 +4,7 @@ This repository contains the source files for [enginerdery.org](http://www.engin
 Enginerdery is a blog for the plain English dissemination of engineering research. This blog is available to all engineering researchers who are willing to write about their recently published papers and provide a description of the results written to be accessible to a broad audience. Posts should be written to be jargon free and understandable to persons without a background in engineering.
 
 ## Contributing
-If you have published an engineering journal or conference paper or a thesis and would like the opportunity to write about it for a general audience through this blog, please see the [submission instructions](/submit) and contribute via pull request.
+If you have published an engineering journal or conference paper or a thesis and would like the opportunity to write about it for a general audience through this blog, please see the [submission instructions](/submit/index.md) and contribute via pull request.
 
 ## License
 
