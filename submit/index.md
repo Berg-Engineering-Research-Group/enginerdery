@@ -55,3 +55,5 @@ Finally, the content of your blog post. Remember that you are writing for a gene
 Images may be included and should be submitted as part of your pull request to the `/images` folder with a file name such as `YYYY-MM-URL-slug-filename.png`.
 
 The [Enginerdery template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md) may be downloaded to give you a starting point. Please save your file with a file name of the format `YYYY-MM-URL-slug.md` prior to submitting a pull request.
+
+<p style="font-size: 50px; text-align: center;">[Download the Template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md)</p>
