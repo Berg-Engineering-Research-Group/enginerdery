@@ -10,11 +10,11 @@
             <div class="well">
                 <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }} - {{ page.title }}</a></h1>
 			<div>
-			<span class="author">Written by: <a href=" {{ page.author_url }}">{{ page.post_author }}</a>
+			<span class="author">Written by: <a href="{{ page.author_url }}">{{ page.post_author }}</a>
 			{% if page.post_author2 != '' %}
                 , <a href=" {{ page.author_url2 }}">{{ page.post_author2 }}</a>
             {% endif %}
-			{% if page.post_author3 != '' %}
+			{% if page.post_author3 != null %}
                 , <a href=" {{ page.author_url3 }}">{{ page.post_author3 }}</a>
             {% endif %}
 			{% if page.post_author4 != '' %}
