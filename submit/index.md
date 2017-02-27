@@ -7,7 +7,7 @@ layout: default
 The process for submitting to Enginerdery is relatively straightforward.
 1. Have a recently published work that you would like to write about.
 2. Download the [Enginerdery blog post template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md) (described further below).
-3. Use the template to fill in the details about your work and author your post in [Markdown](https://guides.github.com/features/mastering-markdown/). Be sure to focus on using simple language and avoid unnecessary jargon. Remember that this blog post is intended for a general audience.
+3. Use the template to fill in the details about your work and author your post in [Markdown](https://guides.github.com/features/mastering-markdown/). Be sure to focus on using simple language and avoid unnecessary jargon. Remember that this blog post is intended for a general audience. While the typical research paper starts with an introduction, describes the methods, and finishes with the conclusions, a blog post for the general public should instead lead with the key findings and follow it up by answering the question, _why should I care?_ In general you can leave out the methods; the interested reader can click through to your full paper.
 4. Fork the [Enginerdery Github repo](https://github.com/OpenEngr/enginerdery).*
 5. Save your authored post to the `_posts` folder using the `YYYY-MM-URL-slug.md` file naming format.
 6. Add any images to the `/images` folder with a file name such as `YYYY-MM-URL-slug-filename.png`.
