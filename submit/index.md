@@ -4,7 +4,18 @@ layout: default
 
 # How to submit to Enginerdery
 
-coming soon.
+The process for submitting to Enginerdery is relatively straightforward.
+1. Have a recently published work that you would like to write about.
+2. Download the [Enginerdery blog post template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md) (described further below).
+3. Use the template to fill in the details about your work and author your post in [Markdown](https://guides.github.com/features/mastering-markdown/). Be sure to focus on using simple language and avoid unnecessary jargon. Remember that this blog post is intended for a general audience.
+4. Fork the [Enginerdery Github repo](https://github.com/OpenEngr/enginerdery).*
+5. Save your authored post to the `_posts` folder using the `YYYY-MM-URL-slug.md` file naming format.
+6. Add any images to the `/images` folder with a file name such as `YYYY-MM-URL-slug-filename.png`.
+7. [Submit a pull request](https://github.com/OpenEngr/enginerdery/pulls) with your additions.
+8. If any corrections are needed prior to posting, you will be notified via a comment on your pull request.
+
+\* Alternatively you can navigate to the [_posts](https://github.com/OpenEngr/enginerdery/tree/master/_posts) folder in the Github repo and click `Create new file` or `Upload files` to simultaneously create a fork and submit a pull request.
+
 
 # Description of Enginerdery template
 This section describes the features and components of the Markdown template for use on Enginerdery. A template file can be copied or downloaded for modification [here](../enginerdery-template).
@@ -54,6 +65,6 @@ Finally, the content of your blog post. Remember that you are writing for a gene
 
 Images may be included and should be submitted as part of your pull request to the `/images` folder with a file name such as `YYYY-MM-URL-slug-filename.png`.
 
-The [Enginerdery template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md) may be downloaded to give you a starting point. Please save your file with a file name of the format `YYYY-MM-URL-slug.md` prior to submitting a pull request.
+The [Enginerdery template](https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md) may be downloaded to give you a starting point. Please save your file with a file name of the format `YYYY-MM-URL-slug.md` prior to [submitting a pull request](https://github.com/OpenEngr/enginerdery/pulls).
 
 <div style="font-size: 50px; text-align: center;"><a href="https://github.com/OpenEngr/enginerdery/raw/master/enginerdery-template.md">Download the Template</a></div>
