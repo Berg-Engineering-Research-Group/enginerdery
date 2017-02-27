@@ -3,7 +3,7 @@ title: What is Enginerdery?
 tags: informational, meta
 category: meta
 permalink: 2017/02/what-is-enginerdery
-post_author: Enginderdery Admin
+post_author: Enginerdery Admin
 author_url: http://www.enginerdery.org
 layout: post
 comments: true
