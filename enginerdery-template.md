@@ -9,7 +9,7 @@ layout: post
 comments: true
 ---
 
-**Paper title: Title of the paper**
+**Paper title: Title of the paper**  
 **DOI: [10.1063/1.3050881](http://doi.org/10.1063/1.3050881)**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accumsan varius nibh nec, tincidunt feugiat enim. Quisque porttitor quis orci ut varius. Donec mi odio, faucibus vel augue vel, facilisis ultrices nunc. Phasellus et tellus vel dolor scelerisque auctor. Donec malesuada consectetur ligula, at eleifend elit mattis id. Aenean vel neque eget diam venenatis accumsan eu quis dolor. Nullam vel maximus mauris. Suspendisse a fringilla dui, vitae laoreet turpis.
