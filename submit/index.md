@@ -42,8 +42,8 @@ comments: true
 ```
 
 Next, include the details of your paper as follows:
-## Paper title: Title of the paper
-### DOI: [10.1063/1.3050881](http://doi.org/10.1063/1.3050881)
+**Paper title: Title of the paper**
+**DOI: [10.1063/1.3050881](http://doi.org/10.1063/1.3050881)**
 If the paper is locked behind a paywall, you are __encouraged__ to provide a link to an accessible (preprint, repository, self-hosted) version here.
 
 Finally, the content of your blog post. Remember that you are writing for a general audience so please try to avoid jargon or words for which the common definition is not widely known. You should also attempt to avoid the use of any equations as well as any graphics that may not be clear to a non-engineer. You may use any [Markdown formatting](https://guides.github.com/features/mastering-markdown/) you desire.
