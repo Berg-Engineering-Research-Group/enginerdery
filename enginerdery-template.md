@@ -1,6 +1,6 @@
 ---
 title: "Simplified title goes here"
-tags: relevant, tags
+tags: [relevant, tags]
 category: journal-article
 permalink: 2017/01/URL-slug
 post_author: Jill J. Jones
