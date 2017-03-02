@@ -1,11 +1,10 @@
 .codinfox-tag-mark{
 	display:inline-block;
-	background:rgba(106,159,181,0.15);
+	background:rgba(181,106,106,0.15);
 	padding:0 .5rem;
 	margin-right:.5rem;
 	border-radius:4px;
-	color:#6a9fb5;
-	font-family:"PT Sans",Helvetica,Arial,sans-serif;
+	color:#ee4444;
 	font-size:90%;
 	-webkit-transition:all 0.1s ease-in-out;
 	-moz-transition:all 0.1s ease-in-out;
@@ -36,7 +35,6 @@
     list-style: none;
 }
 .codinfox-category-list h3 {
-    font-size: 1rem;
     margin-top: 0;
 }
 .codinfox-category-list li small {
