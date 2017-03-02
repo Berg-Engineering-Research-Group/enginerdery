@@ -48,3 +48,8 @@
 .codinfox-category-list li a:hover small {
     color: inherit;
 }
+
+img {
+	max-width: 80%;
+	display: block;
+}
