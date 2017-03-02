@@ -50,9 +50,6 @@ title:    Category
         {{ post.title }}
         <small>{{ post.date | date_to_string }}</small>
       </a>
-      {% for tag in post.tags %}
-      <a class="codinfox-tag-mark" href="{{ site.baseurl}}/tag/#{{ tag | slugify }}">{{ tag }}</a>
-      {% endfor %}
     </h3>
   </li>
   {% endif %}
