@@ -11,19 +11,6 @@ comments: true
 
 ## Paper title: Design of a Hydraulic Dexterous Manipulator for Minimally Invasive Surgery
 ### DOI: [10.6084/m9.figshare.963287](https://doi.org/10.6084/m9.figshare.963287)
-### Citation:
-```
-@phdthesis{berg2013DexterousManipulator,
-  author       = {Devin R. Berg}, 
-  title        = {Design of a Hydraulic Dexterous Manipulator for Minimally Invasive Surgery},
-  school       = {University of Minnesota},
-  year         = 2013,
-  address      = {Minneapolis, MN},
-  month        = 9,
-  doi          = {10.6084/m9.figshare.963287},
-  url          = {http://hdl.handle.net/11299/159593}
-}
-```
 
 Robots have the potential to transform how surgery is performed. For example, the use of robots could result in surgery being safer, faster, and more efficient<sup id="a1">[1](#f1)</sup>. Other advantages are also possible such as enabling a surgery to be performed in one location while the surgeon is in a completely different location<sup id="a2">[2](#f2)</sup>. Currently, there are not too many robots on the market or being used in everyday surgery. The most notable one is the da Vinci Surgical System<sup id="a3">[3](#f3)</sup> made by a company called Intuitive Surgical. This machine is a _laparoscopic_ device which means that it access to the patient's body through small incisions in the abdomen. Some challenges with this approach are that the da Vinci robot is quite large and prohibitively expensive for many hospitals. Additionally, the incisions that are required for this type of surgery, while better than open surgery, still require significant time for healing and the use of pain medication.
 
@@ -54,3 +41,17 @@ The main advantages of this robot are that the pieces that go inside the patient
 <b id="f3">3</b>  da Vinci Surgical System. [https://www.intuitivesurgical.com/products/davinci_surgical_system/](https://www.intuitivesurgical.com/products/davinci_surgical_system/). [↩](#a3)
 
 <b id="f4">4</b>  L. Barclay. Natural orifice translumenal endoscopic surgery may allow incisionless operations. Medscape Medical News, 2008. [http://www.medscape.com/viewarticle/578108](http://www.medscape.com/viewarticle/578108). [↩](#a4)
+
+### Citation:
+```
+@phdthesis{berg2013DexterousManipulator,
+  author       = {Devin R. Berg}, 
+  title        = {Design of a Hydraulic Dexterous Manipulator for Minimally Invasive Surgery},
+  school       = {University of Minnesota},
+  year         = 2013,
+  address      = {Minneapolis, MN},
+  month        = 9,
+  doi          = {10.6084/m9.figshare.963287},
+  url          = {http://hdl.handle.net/11299/159593}
+}
+```
