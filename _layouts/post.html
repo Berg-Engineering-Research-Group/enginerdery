@@ -25,9 +25,11 @@
             {% endif %}
 			</span>
 			</div>
+			<span class="author">Tags: 
 			{% for tag in page.tags %}
-			    <span class="tag-mark">{{ tag }}</span>
+			    <a href="#{{ tag | slugify }}"> {{ tag }} </a>
 			{% endfor %}
+			</span>
             {% if site.comments == true and page.comments == true and site.disqus != '' %}
                 <p class="author"><a href="#disqus_thread">Comments</a></p>
             {% endif %}
