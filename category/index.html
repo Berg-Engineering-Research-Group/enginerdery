@@ -2,9 +2,6 @@
 layout:   default
 title:    Category
 ---
-{% comment%}
-Here we generate all the categories.
-{% endcomment%}
 
 {% assign rawcats = "" %}
 {% for post in site.posts %}
@@ -30,7 +27,7 @@ Here we generate all the categories.
 {% endfor %}
 
 <h1 class="page-title">
-  <a href="{{ site.baseurl}}">Blog</a> | {{ page.title }}
+  {{ page.title }}
 </h1>
 <br/>
 

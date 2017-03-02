@@ -1,7 +1,40 @@
-.tag-mark{
+.codinfox-tag-mark{
     font-size: 75%;
     padding: 0 .5rem 0 .5rem;
     border-radius: 5px;
     background: blue;
     color: white;
+}
+
+.codinfox-category-mark {
+    padding: 0 .5rem 0 .5rem;
+    border-radius: 5px;
+    background: #f0f0f0;
+    color: #999;
+    text-decoration: none;
+    margin-bottom: .75rem;
+}
+
+.codinfox-category-mark:hover {
+    font-weight: bold;
+}
+
+.codinfox-category-list {
+    padding-left: 1rem;
+    list-style: none;
+}
+.codinfox-category-list h3 {
+    font-size: 1rem;
+    margin-top: 0;
+}
+.codinfox-category-list li small {
+    font-size: 75%;
+    color: #999;
+}
+.codinfox-category-list li a:hover {
+    color: #6a9fb5;
+    text-decoration: none;
+}
+.codinfox-category-list li a:hover small {
+    color: inherit;
 }
