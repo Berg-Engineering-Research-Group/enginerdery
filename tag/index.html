@@ -42,7 +42,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 {% for tag in tags %}
-	<a href="#{{ tag | slugify }}" class="codinfox-category-mark" style="color:#999;text-decoration: none;"> {{ tag }} </a>
+	<a href="#{{ tag | slugify }}" class="codinfox-tag-mark" style="text-decoration: none;"> {{ tag }} </a>
 {% endfor %}
 
 {% comment %}
